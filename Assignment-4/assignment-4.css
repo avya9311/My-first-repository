@@ -1,0 +1,39 @@
+.happy{
+height:300px;
+border-radius:19px;	
+}
+.youtube{
+height:40px;
+}
+.facebook{
+height:40px;	
+}
+.instagram{
+height:40px;	
+}
+.tiktok{
+	height:47px;
+}
+.sec{
+	max-width:30%;margin:0 Auto;
+	box-shadow:5px 5px 5px 5px lightgray;
+	padding:30px;
+}
+.months{
+	position:absolute;
+	background-color:#ADD8E6;
+	left:820px;
+	top:380px;
+	padding:5px;
+	border-radius:10px;
+	
+}
+.cart{
+position:absolute;
+	background-color:#32527B;
+	left:757px;
+	top:570px;
+	padding:5px 20px;
+	border-radius:10px;
+	color:white;
+}
